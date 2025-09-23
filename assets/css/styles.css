@@ -399,6 +399,7 @@ img {
   bottom: 0;
   margin: auto 0;
   display: grid;
+  visibility: hidden;
   row-gap: 1rem;
 }
 
@@ -973,7 +974,7 @@ margin-top: 5rem;
 
   .home__line{
     left: -15rem;
-    bottom: 4rem;
+    bottom: 3rem;
     width: 80px;
     rotate: 30deg;
   }
@@ -981,6 +982,7 @@ margin-top: 5rem;
   .home__social{
     left: initial;
     right: -6rem;
+    visibility: hidden;
   }
 
   .home__social-link{
