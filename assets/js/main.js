@@ -87,8 +87,8 @@ if (window.ScrollReveal) {
   const sr = ScrollReveal({
       origin: 'top',
       distance: '60px',
-      duration: 2500,
-      delay: 400,
+      duration: 2000,
+      delay: 300,
       // reset: true
   });
 
